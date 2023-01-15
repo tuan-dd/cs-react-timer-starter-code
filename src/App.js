@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React from 'react';
 import useTimer from './useTimer';
 import formatTime from './formatTime';
 
